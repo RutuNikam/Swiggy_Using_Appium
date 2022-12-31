@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-31T14:52:31 IST" name="Default suite" finished-at="2022-12-31T14:53:06 IST" duration-ms="35393">
+    <groups>
+    </groups>
+    <test started-at="2022-12-31T14:52:31 IST" name="Default test" finished-at="2022-12-31T14:53:06 IST" duration-ms="35393">
+      <class name="com.calculator.TestSwiggy">
+        <test-method signature="TestSwiggyMethod()[pri:0, instance:com.calculator.TestSwiggy@6fdbe764]" started-at="2022-12-31T14:52:31 IST" name="TestSwiggyMethod" finished-at="2022-12-31T14:53:06 IST" duration-ms="35238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSwiggyMethod -->
+      </class> <!-- com.calculator.TestSwiggy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
